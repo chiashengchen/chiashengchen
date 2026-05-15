@@ -15,6 +15,9 @@
 ## Lastest GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#2](https://github.com/chiashengchen/LogNote/issues/2) in [chiashengchen/LogNote](https://github.com/chiashengchen/LogNote)
+2. ❗ Opened issue [#1](https://github.com/chiashengchen/LogNote/issues/1) in [chiashengchen/LogNote](https://github.com/chiashengchen/LogNote)
+<!--END_SECTION:activity-->
 
 ## List of cool things that went into this profile
 
