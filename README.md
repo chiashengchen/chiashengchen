@@ -1,16 +1,11 @@
 
-## 👋 Hi there ! I'm Peter Lin 
+## 👋 Hi there! I'm Peter Lin 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=chiashengchen.chiashengchen&color=00cf00)
 
 - Recently, I'm preparing to study abroad.
-- I worked at Phison as an eMMC firmware engineer.
+- I worked at [Phison](https://www.phison.com/en/) as an eMMC firmware engineer.
 - I was a part of the [Game As A Service (GaaS)](https://github.com/Game-as-a-Service) for the game [Citadels](https://github.com/Game-as-a-Service/citadels-game).
-
-## Stats
-
-![chiashengchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiashengchen&show_icons=true&theme=vue-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiashengchen&theme=vue-dark&line_height=22&layout=compact&show_icons=true&hide=less)
 
 ## Lastest GitHub Activity
 
